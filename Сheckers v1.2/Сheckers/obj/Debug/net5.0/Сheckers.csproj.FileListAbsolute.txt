@@ -1,0 +1,48 @@
+D:\Scripts\c# RiderProjects\Сheckers\Сheckers\obj\Debug\net5.0\Сheckers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Scripts\c# RiderProjects\Сheckers\Сheckers\obj\Debug\net5.0\Сheckers.AssemblyInfoInputs.cache
+D:\Scripts\c# RiderProjects\Сheckers\Сheckers\obj\Debug\net5.0\Сheckers.AssemblyInfo.cs
+D:\Scripts\c# RiderProjects\Сheckers\Сheckers\obj\Debug\net5.0\Сheckers.csproj.CoreCompileInputs.cache
+D:\Scripts\c# RiderProjects\Сheckers\Сheckers\bin\Debug\net5.0\Сheckers.exe
+D:\Scripts\c# RiderProjects\Сheckers\Сheckers\bin\Debug\net5.0\Сheckers.deps.json
+D:\Scripts\c# RiderProjects\Сheckers\Сheckers\bin\Debug\net5.0\Сheckers.runtimeconfig.json
+D:\Scripts\c# RiderProjects\Сheckers\Сheckers\bin\Debug\net5.0\Сheckers.runtimeconfig.dev.json
+D:\Scripts\c# RiderProjects\Сheckers\Сheckers\bin\Debug\net5.0\Сheckers.dll
+D:\Scripts\c# RiderProjects\Сheckers\Сheckers\bin\Debug\net5.0\ref\Сheckers.dll
+D:\Scripts\c# RiderProjects\Сheckers\Сheckers\bin\Debug\net5.0\Сheckers.pdb
+D:\Scripts\c# RiderProjects\Сheckers\Сheckers\obj\Debug\net5.0\Сheckers.dll
+D:\Scripts\c# RiderProjects\Сheckers\Сheckers\obj\Debug\net5.0\ref\Сheckers.dll
+D:\Scripts\c# RiderProjects\Сheckers\Сheckers\obj\Debug\net5.0\Сheckers.pdb
+D:\Scripts\c# RiderProjects\Сheckers\Сheckers\obj\Debug\net5.0\Сheckers.genruntimeconfig.cache
+D:\Scripts\c# RiderProjects\Сheckers\Сheckers\obj\Debug\net5.0\Сheckers.csproj.AssemblyReference.cache
+D:\Scripts\c# RiderProjects\Checkers (old)\Сheckers v1.1\Сheckers\bin\Debug\net5.0\Сheckers.exe
+D:\Scripts\c# RiderProjects\Checkers (old)\Сheckers v1.1\Сheckers\bin\Debug\net5.0\Сheckers.deps.json
+D:\Scripts\c# RiderProjects\Checkers (old)\Сheckers v1.1\Сheckers\bin\Debug\net5.0\Сheckers.runtimeconfig.json
+D:\Scripts\c# RiderProjects\Checkers (old)\Сheckers v1.1\Сheckers\bin\Debug\net5.0\Сheckers.runtimeconfig.dev.json
+D:\Scripts\c# RiderProjects\Checkers (old)\Сheckers v1.1\Сheckers\bin\Debug\net5.0\Сheckers.dll
+D:\Scripts\c# RiderProjects\Checkers (old)\Сheckers v1.1\Сheckers\bin\Debug\net5.0\ref\Сheckers.dll
+D:\Scripts\c# RiderProjects\Checkers (old)\Сheckers v1.1\Сheckers\bin\Debug\net5.0\Сheckers.pdb
+D:\Scripts\c# RiderProjects\Checkers (old)\Сheckers v1.1\Сheckers\obj\Debug\net5.0\Сheckers.csproj.AssemblyReference.cache
+D:\Scripts\c# RiderProjects\Checkers (old)\Сheckers v1.1\Сheckers\obj\Debug\net5.0\Сheckers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Scripts\c# RiderProjects\Checkers (old)\Сheckers v1.1\Сheckers\obj\Debug\net5.0\Сheckers.AssemblyInfoInputs.cache
+D:\Scripts\c# RiderProjects\Checkers (old)\Сheckers v1.1\Сheckers\obj\Debug\net5.0\Сheckers.AssemblyInfo.cs
+D:\Scripts\c# RiderProjects\Checkers (old)\Сheckers v1.1\Сheckers\obj\Debug\net5.0\Сheckers.csproj.CoreCompileInputs.cache
+D:\Scripts\c# RiderProjects\Checkers (old)\Сheckers v1.1\Сheckers\obj\Debug\net5.0\Сheckers.dll
+D:\Scripts\c# RiderProjects\Checkers (old)\Сheckers v1.1\Сheckers\obj\Debug\net5.0\ref\Сheckers.dll
+D:\Scripts\c# RiderProjects\Checkers (old)\Сheckers v1.1\Сheckers\obj\Debug\net5.0\Сheckers.pdb
+D:\Scripts\c# RiderProjects\Checkers (old)\Сheckers v1.1\Сheckers\obj\Debug\net5.0\Сheckers.genruntimeconfig.cache
+D:\Scripts\c# RiderProjects\Checkers (all versions)\Сheckers v1.2\Сheckers\bin\Debug\net5.0\Сheckers.exe
+D:\Scripts\c# RiderProjects\Checkers (all versions)\Сheckers v1.2\Сheckers\bin\Debug\net5.0\Сheckers.deps.json
+D:\Scripts\c# RiderProjects\Checkers (all versions)\Сheckers v1.2\Сheckers\bin\Debug\net5.0\Сheckers.runtimeconfig.json
+D:\Scripts\c# RiderProjects\Checkers (all versions)\Сheckers v1.2\Сheckers\bin\Debug\net5.0\Сheckers.runtimeconfig.dev.json
+D:\Scripts\c# RiderProjects\Checkers (all versions)\Сheckers v1.2\Сheckers\bin\Debug\net5.0\Сheckers.dll
+D:\Scripts\c# RiderProjects\Checkers (all versions)\Сheckers v1.2\Сheckers\bin\Debug\net5.0\ref\Сheckers.dll
+D:\Scripts\c# RiderProjects\Checkers (all versions)\Сheckers v1.2\Сheckers\bin\Debug\net5.0\Сheckers.pdb
+D:\Scripts\c# RiderProjects\Checkers (all versions)\Сheckers v1.2\Сheckers\obj\Debug\net5.0\Сheckers.csproj.AssemblyReference.cache
+D:\Scripts\c# RiderProjects\Checkers (all versions)\Сheckers v1.2\Сheckers\obj\Debug\net5.0\Сheckers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Scripts\c# RiderProjects\Checkers (all versions)\Сheckers v1.2\Сheckers\obj\Debug\net5.0\Сheckers.AssemblyInfoInputs.cache
+D:\Scripts\c# RiderProjects\Checkers (all versions)\Сheckers v1.2\Сheckers\obj\Debug\net5.0\Сheckers.AssemblyInfo.cs
+D:\Scripts\c# RiderProjects\Checkers (all versions)\Сheckers v1.2\Сheckers\obj\Debug\net5.0\Сheckers.csproj.CoreCompileInputs.cache
+D:\Scripts\c# RiderProjects\Checkers (all versions)\Сheckers v1.2\Сheckers\obj\Debug\net5.0\Сheckers.dll
+D:\Scripts\c# RiderProjects\Checkers (all versions)\Сheckers v1.2\Сheckers\obj\Debug\net5.0\ref\Сheckers.dll
+D:\Scripts\c# RiderProjects\Checkers (all versions)\Сheckers v1.2\Сheckers\obj\Debug\net5.0\Сheckers.pdb
+D:\Scripts\c# RiderProjects\Checkers (all versions)\Сheckers v1.2\Сheckers\obj\Debug\net5.0\Сheckers.genruntimeconfig.cache
